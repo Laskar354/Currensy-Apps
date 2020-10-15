@@ -1,0 +1,19 @@
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\bin\Debug\netcoreapp3.1\Currensy Apps.exe
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\bin\Debug\netcoreapp3.1\Currensy Apps.deps.json
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\bin\Debug\netcoreapp3.1\Currensy Apps.runtimeconfig.json
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\bin\Debug\netcoreapp3.1\Currensy Apps.runtimeconfig.dev.json
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\bin\Debug\netcoreapp3.1\Currensy Apps.dll
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\bin\Debug\netcoreapp3.1\Currensy Apps.pdb
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\Currensy Apps.csprojAssemblyReference.cache
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\Currensy Apps_MarkupCompile.cache
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\Currensy Apps_MarkupCompile.lref
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\Currensy Apps.g.resources
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\Currensy Apps.AssemblyInfoInputs.cache
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\Currensy Apps.AssemblyInfo.cs
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\Currensy Apps.csproj.CoreCompileInputs.cache
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\Currensy Apps.dll
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\Currensy Apps.pdb
+E:\Informatika\Pemrograman Lanjut\Currensy Apps\Currensy Apps\obj\Debug\netcoreapp3.1\Currensy Apps.genruntimeconfig.cache
